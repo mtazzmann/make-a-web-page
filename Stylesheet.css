@@ -1,0 +1,108 @@
+  /* Style sheet for adding Style */
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+
+
+body		{background-color:	skyblue;}
+.main-box	{border-color:		navy;}
+.page-title	{color:			navy;}
+.tagline	{color:			red;}
+
+
+
+/* THE REST OF THE CSS */
+
+.numbersquare {
+    border-radius: 10%;
+
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+
+    background: skyblue;
+    border: 5px solid navy;
+    color: navy;
+    text-align: center;
+
+    
+    font-family: "comic sans ms";
+    font-size: 16pt;
+    float: left;
+    color: red;
+    margin-top: 5px;
+}
+
+.horzline{
+	width: 100%;
+	border-width: 5px;
+	
+}
+
+body {				
+	font-family: "comic sans ms"; 	
+	font-size: 12pt;	
+}
+
+h1 {				
+	font-size: 24pt;	
+	font-weight: bold;
+	margin-bottom: 24px;	
+	color: red;
+
+}
+
+h2 {				
+	margin-top: -2px;
+	font-weight: bold;
+	font-size: 14pt;	
+	margin-bottom: -1px;
+	color: red;
+	/*background-color: green;
+	text-align: center;*/
+}
+
+.page-title {			
+	font-size: 47pt;	
+	font-weight: bold;
+	text-align: center;
+	clear: both;		
+	margin-top: 76px;
+	margin-bottom: 0;
+	letter-spacing: -4px;	
+}
+
+.tagline {			
+	font-size: 16pt;	
+	font-weight: bold;
+	text-align: center;
+	clear: both;		
+	margin-top: 6px;
+	margin-bottom: 30px;
+	text-transform: uppercase; 
+	letter-spacing: 4px;	
+}
+
+.main-box {
+	border-style: solid;
+	border-width: 5px;
+	padding: 20px 40px;	
+	margin: -10px auto;
+	width: 85%;
+	background: #FFFFFF;
+	line-height: 150%;
+	border-radius: 20px;	
+}
+
+
+/*img {					
+	border: 1px solid;
+	margin: 5px;
+	float: left;			
+}*/
+
